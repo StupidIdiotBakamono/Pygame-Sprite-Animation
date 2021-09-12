@@ -1,2 +1,2 @@
 # Pygame-Sprite-Animation
-Animating player using sprite class
+Using sprite class to animate player on movement and jump.
